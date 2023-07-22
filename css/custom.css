@@ -1,6 +1,7 @@
 body {
   background-color: #000000;
   padding-top: 70px;
+  color: #ffffff;
 }
 
 h1 {
@@ -9,4 +10,11 @@ h1 {
 
 p {
   color: #ffffff;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  color: #ffffff;
+  background-color: #ffffff;
 }
