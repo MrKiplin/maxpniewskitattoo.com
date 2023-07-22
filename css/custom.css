@@ -11,6 +11,9 @@ p {
   color: #ffffff;
 }
 
-br {
+hr {
+  border: none;
+  height: 4px;
   color: #ffffff;
+  background-color: #ffffff;
 }
